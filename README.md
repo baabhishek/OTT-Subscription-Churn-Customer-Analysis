@@ -5,7 +5,7 @@ This repository contains a detailed analysis of customer churn data using Python
 
 # Customer Churn Analysis
 
-This repository contains a detailed analysis of customer churn data using Python. The analysis covers data cleaning and preprocessing, exploratory data analysis (EDA), and advanced relationship analysis using various visualization techniques.
+This repository contains a detailed analysis of customer churn data using Python. The analysis covers data cleaning and preprocessing, exploratory data analysis -> EDA, and advanced relationship analysis using various visualization techniques.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b129795b-1e81-4e5f-b92c-b142217d1261" alt="Image Description">
 </p>
