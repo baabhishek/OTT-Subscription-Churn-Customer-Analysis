@@ -47,6 +47,8 @@ The dataset used in this project contains the following columns:
 |----------|---------|--------|--------|-------------|-------|---------|
 | <img src="https://cdn.simpleicons.org/anaconda/44A833.svg" title="Anaconda" alt="Anaconda" width="50" height="50"/> | <img src="https://cdn.simpleicons.org/jupyter/F37626.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="49" height="49"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/> | <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="Seaborn" alt="Seaborn" width="50" height="50"/>
 
+![Beige Minimalist Personal Business LinkedIn Background Photo](https://github.com/user-attachments/assets/30bb8c3a-c04c-492a-9092-d752d12a7978)
+
 ### Exploratory Data Analysis (EDA):
 
 - Gender Distribution:
