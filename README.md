@@ -1,5 +1,6 @@
 # OTT-Subscription-Churn-Customer-Analysis
 This repository contains a detailed analysis of customer churn data using Python
+![Banner Image](https://github.com/baabhishek/OTT-Subscription-Churn-Customer-Analysis/blob/main/banner-image-41.4-01.png)
 
 # Customer Churn Analysis
 
@@ -44,17 +45,25 @@ The dataset used in this project contains the following columns:
 
 ## Installation
 
-To run the analysis, you need to have Python installed along with the following libraries:
+To understand the analysis, I need to use Python installed along with the following libraries:
 - pandas
 - numpy
 - matplotlib
 - seaborn
 
-You can install these dependencies using the following command:
-
 ```bash
-pip install pandas numpy matplotlib seaborn
 
 Exploratory Data Analysis (EDA):
+
+### Gender Distribution
+
+```python
+import matplotlib.pyplot as plt
+
+plt.pie(df['gender'].value_counts(),
+       labels=df['gender'].value_counts(dropna=False).index,
+       autopct="%.2f%%")
+plt.title('Gender Distribution in %')
+plt.show()
 
 
