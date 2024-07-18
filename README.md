@@ -11,12 +11,10 @@ This repository contains a detailed analysis of customer churn data using Python
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Data Preprocessing](#data-preprocessing)
+- [Data Preprocessing](#data_preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Advanced Relationship Analysis](#advanced-relationship-analysis)
 - [Visualizations](#visualizations)
-- [Summary of Findings](#summary-of-findings)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -43,14 +41,11 @@ The dataset used in this project contains the following columns:
 - `customer_support_calls`: Number of customer support calls made
 - `churn`: Whether the customer churned (1) or not (0)
 
-## Installation
+## Installation along with the following libraries:
 
-To understand the analysis, I need to use Python installed along with the following libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-
+| Anaconda | Jupyter | Python | Pandas | Matplotlib | NumPy  | Seaborn
+|----------|---------|--------|--------|-------------|-------|---------|
+| <img src="https://cdn.simpleicons.org/anaconda/44A833.svg" title="Anaconda" alt="Anaconda" width="50" height="50"/> | <img src="https://cdn.simpleicons.org/jupyter/F37626.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/> | <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="49" height="49"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/> | <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" title="Seaborn" alt="Seaborn" width="50" height="50"/>
 
 ### Exploratory Data Analysis (EDA):
 
