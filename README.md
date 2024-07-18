@@ -223,8 +223,9 @@ plt.show()
 <img width="869" alt="Screenshot 2567-07-18 at 4 27 47 PM" src="https://github.com/user-attachments/assets/eb5be8c3-9484-4f9a-aa41-05445337e9d3">
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/948b2c96-cd2e-4bf1-81e3-19cc717eaa71" alt="giphy">
+  <img src="https://github.com/user-attachments/assets/be2a94a6-630c-4806-a85f-38a00d75a93c" alt="giphy" width="500" height="500">
 </div>
+
 
 
 
