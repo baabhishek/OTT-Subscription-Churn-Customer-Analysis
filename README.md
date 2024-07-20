@@ -23,7 +23,7 @@ This repository contains a detailed analysis of customer churn data using Python
 
 ## Introduction
 
-Customer churn analysis helps businesses understand why customers leave and provides insights to improve customer retention strategies. This project analyzes customer churn data without applying machine learning algorithms, focusing instead on data exploration and visualization.
+Customer churn analysis helps businesses understand why customers leave and provides insights to improve customer retention strategies. This project analyzes customer churn data without applying machine learning algorithms, focusing basic instead on data exploration and visualization.
 
 ## Dataset:
 
