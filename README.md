@@ -10,7 +10,7 @@ This repository contains a detailed analysis of customer churn data using Python
   <img src="https://github.com/user-attachments/assets/b129795b-1e81-4e5f-b92c-b142217d1261" alt="Image Description">
 </p>
 
-## Table of Contents
+## Table of Contents:
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
