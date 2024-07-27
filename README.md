@@ -1,4 +1,4 @@
-# OTT-Subscription-Churn-Customer-Analysis
+# OTT-Subscription-Churn-Customer-Analysis:
 This repository contains a detailed analysis of customer churn data using Python
 
 ![Banner Image](https://github.com/baabhishek/OTT-Subscription-Churn-Customer-Analysis/blob/main/banner-image-41.4-01.png)
